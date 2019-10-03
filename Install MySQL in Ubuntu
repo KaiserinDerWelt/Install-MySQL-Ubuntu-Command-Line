@@ -1,0 +1,15 @@
+<!-- 1)Download MySQL here  https://dev.mysql.com/downloads/installer/ -->
+
+<!-- 2) Open the command line and type the following command  to update the system-->
+
+$ sudo apt-get update
+
+<!-- 3)Install the workbench package -->
+
+sudo apt-get install mysql-workbench
+
+<!-- 4) Say yes to use memory space by tipyng :-->
+
+ES
+
+<!-- 5)Done, mysql have been install in Ubuntu-->
